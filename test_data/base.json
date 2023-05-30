@@ -1,0 +1,23 @@
+{
+    "masterId": "123",
+    "stringField": "a-string",
+    "numberField": 321,
+    "objectField": {
+        "objectId": "456",
+        "objectName": "object-name",
+        "objectValue": 654
+    },
+    "arrayField": [
+        {
+            "arrayObjectId": 0,
+            "arrayObjectName": "array-object-0"
+        },
+        {
+            "arrayObjectId": 1,
+            "arrayObjectName": "array-object-1"
+        }
+    ],
+    "nullField": null,
+    "emptyObjectField": {},
+    "emptyArrayField": []
+}

@@ -1,0 +1,26 @@
+[
+    {
+        "Path": "id",
+        "DataType": "string",
+        "Value": "some-uuid-we-generated",
+        "ActionType": "SetOrAdd"
+    },
+    {
+        "Path": "someField1",
+        "DataType": "string",
+        "Value": "Some Value 1",
+        "ActionType": "SetOrAdd"
+    },
+    {
+        "Path": "anotherField",
+        "DataType": "string",
+        "Value": "anotherValue",
+        "ActionType": "SetOrAdd"
+    },
+    {
+        "Path": "yougettheidea",
+        "DataType": "string",
+        "Value": "By now",
+        "ActionType": "SetOrAdd"
+    }
+]

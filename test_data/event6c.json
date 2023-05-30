@@ -1,0 +1,8 @@
+[
+    {
+        "Path": "",
+        "ActionType": "SetOrAdd",
+        "DataType": "array",
+        "Value": "[\"ArrayElement1\",\"ArrayElement2\"]"
+    }
+]

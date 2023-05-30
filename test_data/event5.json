@@ -1,0 +1,8 @@
+[
+    {
+        "Path": "newObject.newSubObject.newSubObjectString",
+        "ActionType": "SetOrAdd",
+        "DataType": "string",
+        "Value": "Event 5 adds newObject, containing newSubObject, with a string field newSubSubObject set to this value"
+    }
+]

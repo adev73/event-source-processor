@@ -1,0 +1,26 @@
+[
+    [
+        {
+            "arrayObjectId": 0,
+            "arrayObjectName": "array-object-0.0",
+            "valueArray": [
+                "valueArray-0",
+                "valueArray-1"
+            ]
+        },
+        {
+            "arrayObjectId": 1,
+            "arrayObjectName": "array-object-0.1"
+        }
+    ],
+    [
+        {
+            "arrayObjectId": 0,
+            "arrayObjectName": "array-object-1.0"
+        },
+        {
+            "arrayObjectId": 1,
+            "arrayObjectName": "array-object-1.1"
+        }
+    ]
+]

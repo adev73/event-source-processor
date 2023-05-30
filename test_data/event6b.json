@@ -1,0 +1,8 @@
+[
+    {
+        "Path": "",
+        "ActionType": "SetOrAdd",
+        "DataType": "map",
+        "Value": "{\"id\":\"some-uuid-we-generated\",\"someField1\":\"Some Value 1\",\"anotherField\":\"anotherValue\",\"yougettheidea\":\"By now\"}"
+    }
+]

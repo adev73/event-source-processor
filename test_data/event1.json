@@ -1,0 +1,25 @@
+[
+    {
+        "Path": "newFieldFromEvent1",
+        "ActionType": "SetOrAdd",
+        "DataType": "string",
+        "Value": "Event 1 adds this field"
+    },
+    {
+        "Path": "stringField",
+        "ActionType": "SetOrAdd",
+        "DataType": "string",
+        "Value": "Event 1 replaces this field"
+    },
+    {
+        "Path": "newNullField",
+        "ActionType": "SetOrAdd",
+        "DataType": "null"
+    },
+    {
+        "Path": "newIntegerField",
+        "ActionType": "SetOrAdd",
+        "DataType": "float64",
+        "Value": "125"
+    }
+]

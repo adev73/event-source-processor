@@ -1,0 +1,10 @@
+[
+    {
+        "Path": "objectField.newObjectFieldFromEvent2",
+        "ActionType": "Remove"
+    },
+    {
+        "Path": "objectField.newObjectFromEvent2",
+        "ActionType": "Remove"
+    }
+]

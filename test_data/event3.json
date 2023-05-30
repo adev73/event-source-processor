@@ -1,0 +1,8 @@
+[
+    {
+        "Path": "arrayField[new]",
+        "ActionType": "SetOrAdd",
+        "DataType": "map",
+        "Value": "{\"arrayObjectId\":2,\"arrayObjectName\":\"This should be appended to arrayField from event3\"}"
+    }
+]

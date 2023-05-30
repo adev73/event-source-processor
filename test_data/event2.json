@@ -1,0 +1,14 @@
+[
+    {
+        "Path": "objectField.newObjectFieldFromEvent2",
+        "ActionType": "SetOrAdd",
+        "DataType": "string",
+        "Value": "This should be added to objectField by Event 2"
+    },
+    {
+        "Path": "objectField.newObjectFromEvent2",
+        "ActionType": "SetOrAdd",
+        "DataType": "map",
+        "Value": "{\"event2objectfield1\":\"This object is added from Event 2\", \"field2\":123.45, \"field3\":true}"
+    }
+]
